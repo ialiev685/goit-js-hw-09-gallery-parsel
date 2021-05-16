@@ -1,0 +1,26 @@
+{
+  "name": "goit-js-hw-09-gallery-parsel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gallery-items.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ialiev685/goit-js-hw-09-gallery-parsel.git"
+  },
+  "keywords": [],
+  "author": "ilfat <ialiev685@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ialiev685/goit-js-hw-09-gallery-parsel/issues"
+  },
+  "homepage": "https://github.com/ialiev685/goit-js-hw-09-gallery-parsel#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
