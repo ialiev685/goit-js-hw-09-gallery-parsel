@@ -1,4 +1,4 @@
-import galleryItems from "../gallery-items.js";
+import galleryItems from "./js/gallery-items.js";
 const lenGallery = galleryItems.length - 1; // длинна массива картинок
 let currentIndex = 0; // текущая позиция картинки
 
